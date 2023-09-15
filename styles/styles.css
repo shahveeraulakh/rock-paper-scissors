@@ -1,0 +1,48 @@
+*{
+    margin:0;
+    padding:0;
+    border-style: border-box;
+    text-align: center;
+}
+
+
+
+.title{
+    background-color: darkgreen;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    margin:20px 0;
+}
+
+button{
+    font-size: 30px;
+    padding: 20px;
+    text-align: center;
+    cursor: pointer;
+    margin: 10px;
+    border: 2px solid darkgreen;
+    border-radius: 50%;
+
+}
+
+.buttons{
+    text-align: center;
+}
+
+#your-score, #computer-score, .score{
+    text-align: center;
+    font-size: x-large;
+    padding: 10px;
+    margin-top: 20px;
+    
+}
+
+#reset-score{
+    margin-top: 30px;
+}
+
+#your-selection, #computer-selection{
+    font-size: x-large;
+    margin-top: 20px;
+}
